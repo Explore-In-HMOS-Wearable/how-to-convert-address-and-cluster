@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.hmosdemos.wearable.how_to_convert_address_and_cluster",
+    "vendor": "hmosdemos",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name"
+  }
+}

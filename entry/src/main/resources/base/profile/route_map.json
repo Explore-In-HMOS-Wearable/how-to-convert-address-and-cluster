@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "ClusterPage",
+      "pageSourceFile": "src/main/ets/pages/ClusterPage.ets",
+      "buildFunction": "ClusterPageBuilder"
+    }
+  ]
+}
